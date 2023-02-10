@@ -1,8 +1,8 @@
-import "./App.css";
+import './App.css'
 
-function App() {
-	return (
-		<div className="App">
+function App () {
+  return (
+      <div className="App">
         <div className="App-header">
           <h2>Welcome to React PWA Template</h2>
         </div>
@@ -10,7 +10,7 @@ function App() {
           To get started, edit the files
         </p>
       </div>
-	);
+  )
 }
 
-export default App;
+export default App
