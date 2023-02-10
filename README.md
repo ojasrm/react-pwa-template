@@ -31,11 +31,17 @@ npm start
 ```bash
 npm build
 ```
+
+### Reference to install the webapp
+
+
 <!-- ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
  -->
+<img width="153" alt="Screenshot 2023-02-08 at 5 15 13 PM" src="https://user-images.githubusercontent.com/65729897/218070620-a281ad4d-810a-4321-823b-7f1ec0bd27fd.png">
 
+https://user-images.githubusercontent.com/65729897/218071983-2dc716eb-0a54-4f2a-8d68-6e500a6a8bdc.mov
 
 
 ## Authors
